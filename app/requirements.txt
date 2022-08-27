@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pillow
+requests
+requests[socks]
+tenacity
+tqdm
+black
